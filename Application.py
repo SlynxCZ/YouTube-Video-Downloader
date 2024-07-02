@@ -1,4 +1,4 @@
-#made by TheSlynx
+#made by SlynxCZ
 
 import tkinter
 import customtkinter
@@ -10,6 +10,7 @@ def startDownload():
         ytlink = link.get()
         ytObject = YouTube(ytlink, on_progress_callback=on_progress)
         video = ytObject.streams.get_highest_resolution()
+        bitrate = ytObject.streams.get_highest_resolution()
         ytObject.streams
 
         title.configure(text=ytObject.title, text_color="white")
